@@ -1,0 +1,6 @@
+services:
+  my-service:
+    image: my-bot-image
+    command:
+      - python
+      - ./probnik.py
